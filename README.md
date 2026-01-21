@@ -12,10 +12,10 @@
 ## System architecture
 * Integrates a pretrained YOLOv8x deep learning model for animal detection
 * Uses a coordinated multi-agent framework consisting of:
-* Perception Agent – detects animals in real time
-* Threat Assessment Agent – evaluates collision risk
-* Communication Agent – issues real-time driver alerts
-* Monitoring Agent – logs events and monitors system performance
+** Perception Agent – detects animals in real time
+** Threat Assessment Agent – evaluates collision risk
+** Communication Agent – issues real-time driver alerts
+** Monitoring Agent – logs events and monitors system performance
 
 ## Methodology and evaluation
 * Model performance evaluated using: Mean Average Precision (mAP); Precision; Recall
